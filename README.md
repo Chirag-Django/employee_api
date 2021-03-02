@@ -1,4 +1,4 @@
-# employee_api
+# employee_api_testing
 Employee API Testing using pytest
 
 ## Running the Project Locally
