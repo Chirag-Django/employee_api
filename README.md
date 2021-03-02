@@ -78,6 +78,8 @@ Open up the folder and open the `index.html` in your browser to see this informa
 2.  Run below command to get test report in html format
 
     ```bash
-    py.test -v -s test1.py  --html=results.html  
+    pytest   --html=results.html  
     ```
-
+    results.html file will be generated in root folder.
+    
+    
