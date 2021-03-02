@@ -11,6 +11,7 @@ mkdir <company_project>
 cd company_project
 
 git clone https://github.com/Chirag-Django/employee_api.git
+```
 
 ## Running The Project
 
